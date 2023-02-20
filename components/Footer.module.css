@@ -3,7 +3,6 @@
   position: fixed;
   bottom: 0;
   background-color: var(--two);
-  height: 44px;
   text-align: center;
   padding: 4px 8px;
 }
