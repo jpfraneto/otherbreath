@@ -33,13 +33,13 @@ const Breathwork = () => {
         <div className={styles.copyContainer}>
           <p>
             The session will last for 1 hour. You will get in, I will frame the
-            instructions, and then we'll go into an active phase of breathing
-            for 30 minutes. I will send you instructions to prepare for this via
-            email if you sign up.
+            instructions, and then we&apos;ll go into an active phase of
+            breathing for 30 minutes. I will send you instructions to prepare
+            for this via email if you sign up.
           </p>
           <p>
-            After that active breath, we'll have 15 minutes of integration, and
-            then a short space for sharing.
+            After that active breath, we&apos;ll have 15 minutes of integration,
+            and then a short space for sharing.
           </p>
           <p>
             The important part of this process is showing up, giving your best,
@@ -48,12 +48,13 @@ const Breathwork = () => {
             <a
               href='https://www.otherside.xyz'
               target='_blank'
+              rel='noreferrer'
               style={{ color: 'yellow' }}
             >
               Otherside
             </a>
-            . We don't have access to that world yet, but we can go there with
-            our minds. We can imagine that we are there. I will guide you
+            . We don&apos;t have access to that world yet, but we can go there
+            with our minds. We can imagine that we are there. I will guide you
             through that.
           </p>
 

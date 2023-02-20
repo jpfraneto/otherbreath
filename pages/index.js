@@ -44,7 +44,7 @@ export default function Home() {
             />
           </div>
           <p>
-            You may judge that as child-like. That's the rational aspect of your
+            You may judge that as child-like. That&apos;s the rational aspect of your
             mind, trying to control the situation and find in it something
             familiar. This adventure is an invitation into the non-familiar.
           </p>

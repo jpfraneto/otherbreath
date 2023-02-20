@@ -16,9 +16,9 @@ const Footer = () => {
 
   return (
     <div className={styles.footer}>
-      Nothing in here is directly associated with Yuga Labs. I'm just a random
-      person who owns deed 60768 and is going to build something awesome in it.
-      More about me on Twitter at @kithkui.
+      Nothing in here is directly associated with Yuga Labs. I&apos;m just a
+      random person who owns deed 60768 and is going to build something awesome
+      in it. More about me on Twitter at @kithkui.
     </div>
   );
 };
