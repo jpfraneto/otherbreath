@@ -52,9 +52,9 @@
 
 .btnsContainer a {
   cursor: pointer;
-  color: var(--two);
+  color: white;
   margin: 0 22px;
-  background-color: var(--three);
+  background-color: var(--one);
   padding: 8px;
   border: var(--four) 2px solid;
   border-radius: 8px;
