@@ -33,8 +33,8 @@ export default function Home() {
         <div className={styles.copyContainer}>
           {' '}
           <p>
-            Our first journey starts this wednesday. This is how it will look
-            like:
+            Our first journey starts this wednesday, february 22nd at 12pm
+            eastern time. This is basically it will look like:
           </p>
           <div className={styles.imageContainer}>
             <Image
@@ -43,9 +43,10 @@ export default function Home() {
               fill
             />
           </div>
+          <p>Yes, a room full of cartoons.</p>
           <p>
-            You may judge that as child-like. That&apos;s the rational aspect of your
-            mind, trying to control the situation and find in it something
+            You may judge that as child-like. That&apos;s the rational aspect of
+            your mind, trying to control the situation and find in it something
             familiar. This adventure is an invitation into the non-familiar.
           </p>
           <p>
