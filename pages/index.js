@@ -28,7 +28,7 @@ export default function Home() {
         <div className={styles.navTop}>
           {' '}
           <h1>OTHERBREATH</h1>
-          <h2>Ignite your creative spark.</h2>
+          <h3>Online breathwork center</h3>
         </div>
         <div className={styles.firstContainer}>
           <h2>We are all human</h2>
