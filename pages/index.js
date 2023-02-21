@@ -38,9 +38,9 @@ export default function Home() {
             <p>
               Behind each one of these cartoons there is a human being. A person
               that has found in web3 something that did not exist in the world
-              before. I'm also one of those. Right now, I'm building the first
-              fully digital Breathwork center, which will be located on the
-              Otherside.
+              before. I&apos;m also one of those. Right now, I&apos;m building
+              the first fully digital Breathwork center, which will be located
+              on the Otherside.
             </p>
             <p>
               Why there? Because I believe in the technology. A very important
@@ -58,18 +58,18 @@ export default function Home() {
               of connecting with each other.
             </p>
             <p>
-              That's the promise that the Otherside will bring, with its
-              "In-world natural voice chat". I'm sure that this technology will
-              be a revolution in the way on which we communicate through the
-              internet, because it will bring more of what we are used to. If
-              you are in the same room with other people, you can expect to
-              listen all of them.
+              That&apos;s the promise that the Otherside will bring, with its
+              &quot;In-world natural voice chat&quot;. I&apos;m sure that this
+              technology will be a revolution in the way on which we communicate
+              through the internet, because it will bring more of what we are
+              used to. If you are in the same room with other people, you can
+              expect to listen all of them.
             </p>
             <p>
-              So I'm going to build the Otherbreath, the first breathwork center
-              of the metaverse, so that people from all over the world can dive
-              into these journeys together. Stay tuned, because it will be
-              incredible.
+              So I&apos;m going to build the Otherbreath, the first breathwork
+              center of the metaverse, so that people from all over the world
+              can dive into these journeys together. Stay tuned, because it will
+              be incredible.
             </p>
           </div>
         </div>
