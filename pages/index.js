@@ -30,37 +30,47 @@ export default function Home() {
           <h1>OTHERBREATH</h1>
           <h2>Ignite your creative spark.</h2>
         </div>
-        <div className={styles.copyContainer}>
-          {' '}
-          <p>
-            Our first journey starts this wednesday, february 22nd at 12pm
-            eastern time. This is basically it will look like:
-          </p>
-          <div className={styles.imageContainer}>
-            <Image
-              src='/images/breathworksession.png'
-              alt='Zoom meeting'
-              fill
-            />
-          </div>
-          <p>Yes, a room full of cartoons.</p>
-          <p>
-            You may judge that as child-like. That&apos;s the rational aspect of
-            your mind, trying to control the situation and find in it something
-            familiar. This adventure is an invitation into the non-familiar.
-          </p>
-          <p>
-            We are going to tap into those dreams of childhood, into the way on
-            which these cartoons made you <em>feel</em>. Into what they brought
-            into you as you were growing up.
-          </p>
-          <p>
-            That is the power of stories, because at the end of the day, the
-            creative act is a way of making sense.{' '}
-          </p>
-          <div className={styles.btnsContainer}>
-            <Link href='/breathwork'>About Breathwork</Link>
-            <a onClick={handleJoin}>Join</a>
+        <div className={styles.firstContainer}>
+          <h2>We are all human</h2>
+        </div>
+        <div className={styles.secondContainer}>
+          <div className={styles.secondContainerText}>
+            <p>
+              Behind each one of these cartoons there is a human being. A person
+              that has found in web3 something that did not exist in the world
+              before. I'm also one of those. Right now, I'm building the first
+              fully digital Breathwork center, which will be located on the
+              Otherside.
+            </p>
+            <p>
+              Why there? Because I believe in the technology. A very important
+              aspect of going into a breathwork session with more people happens
+              when you can listen to what is happening around you. To the person
+              crying next to you. Or the one laughing. That brings into the
+              experience a depth that is beyond what can happen in the present
+              day through zoom.{' '}
+            </p>
+            <p>
+              If you do a group breathwork session through zoom, you can only
+              listen to what the facilitator says. You are isolated in your own
+              sphere with the voice of the facilitator, and I know that the
+              depth of the experience can be different if there is another way
+              of connecting with each other.
+            </p>
+            <p>
+              That's the promise that the Otherside will bring, with its
+              "In-world natural voice chat". I'm sure that this technology will
+              be a revolution in the way on which we communicate through the
+              internet, because it will bring more of what we are used to. If
+              you are in the same room with other people, you can expect to
+              listen all of them.
+            </p>
+            <p>
+              So I'm going to build the Otherbreath, the first breathwork center
+              of the metaverse, so that people from all over the world can dive
+              into these journeys together. Stay tuned, because it will be
+              incredible.
+            </p>
           </div>
         </div>
       </main>
