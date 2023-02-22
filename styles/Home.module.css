@@ -10,6 +10,22 @@
   height: 133px;
 }
 
+.bannerNav {
+  background-color: var(--four);
+  color: black;
+  font-size: 2rem;
+  border-top: solid 2px white;
+  border-bottom: solid 2px white;
+}
+
+.kithkuiLink {
+  color: orange;
+}
+
+.kithkuiLink:hover {
+  color: var(--two);
+}
+
 .main {
   text-align: center;
   margin: 0 auto;
