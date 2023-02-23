@@ -31,7 +31,7 @@ export default function Home() {
           <h3>Online breathwork center</h3>
         </div>
         <div className={styles.bannerNav}>
-          Next open session: TODAY! Tuesday 22 feb, 12pm Eastern Time. Twitter
+          Open Breathwork Sessions: Every Wednesday, 12pm Eastern Time. Twitter
           Spaces:{' '}
           <a
             href='https://www.twitter.com/kithkui'
