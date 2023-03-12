@@ -30,18 +30,7 @@ export default function Home() {
           <h1>OTHERBREATH</h1>
           <h3>Online breathwork center</h3>
         </div>
-        <div className={styles.bannerNav}>
-          Open Breathwork Sessions: Every Wednesday, 12pm Eastern Time. Twitter
-          Spaces:{' '}
-          <a
-            href='https://www.twitter.com/kithkui'
-            target='_blank'
-            rel='noreferrer'
-            className={styles.kithkuiLink}
-          >
-            @kithkui
-          </a>
-        </div>
+
         <div className={styles.firstContainer}>
           <h2>We are all human</h2>
         </div>
